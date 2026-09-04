@@ -7,7 +7,7 @@ about:
   head: eb609f4
   archived: false
   latestVersion: v1.3.6
-  collectedAt: 2026-09-04T19:22:02Z
+  collectedAt: 2026-09-04T21:10:23Z
 timeline:
   created: 2025-07-16
   lastCommit: 2026-09-01
@@ -85,5 +85,58 @@ total:
   openIssue: 0
   commit: 774
 ---
+path: /home/runner/.x-repo/github.com/Cod-e-Codes/marchat
+collectedAt: 2026-09-04T21:10:23Z
+loc:
+  Go:
+    code: 35290
+    comments: 2655
+    blanks: 5225
+    files: 116
+  Yaml:
+    code: 495
+    comments: 41
+    blanks: 3
+    files: 32
+  Sh:
+    code: 471
+    comments: 61
+    blanks: 80
+    files: 6
+  PowerShell:
+    code: 372
+    comments: 54
+    blanks: 87
+    files: 7
+  Json:
+    code: 231
+    comments: 0
+    blanks: 1
+    files: 5
+  Html:
+    code: 192
+    comments: 13
+    blanks: 13
+    files: 1
+  Ruby:
+    code: 49
+    comments: 0
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 26
+    comments: 11
+    blanks: 13
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2836
+    blanks: 1137
+    files: 20
+total:
+  code: 38960
+  comments: 5792
+  blanks: 6818
+  files: 189
 ---
 
