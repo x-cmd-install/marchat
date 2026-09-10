@@ -23,7 +23,16 @@ x install marchat
 - **Latest**: `v1.3.6` (2026-09-01)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 5
-- **Published**: 2026-09-01T13:21:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [marchat-v1.3.6-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-amd64.zip) | 26.0 MiB | `native/darwin/x64` |
+| [marchat-v1.3.6-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-arm64.zip) | 24.8 MiB | `native/darwin/arm64` |
+| [marchat-v1.3.6-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-amd64.zip) | 24.9 MiB | `native/linux/x64` |
+| [marchat-v1.3.6-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-arm64.zip) | 23.3 MiB | `native/linux/arm64` |
+| [marchat-v1.3.6-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-windows-amd64.zip) | 25.6 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -58,8 +67,8 @@ Total: **37,126** lines of code across **166** files in the top 5 languages.
 Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `marchat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/marchat.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/marchat.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:54:21Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:22Z._

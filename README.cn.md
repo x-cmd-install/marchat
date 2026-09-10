@@ -4,7 +4,7 @@
 
 Terminal chat for developers: Go WebSocket server + Bubble Tea TUI client, optional E2E, reactions, DMs, channels, plugins, files, code snippets, admin UI. Backends: SQLite, PostgreSQL, or MySQL. Self-hosted.
 
-![marchat](https://repo.x-cmd.io/marchat.svg)
+![marchat](https://repo.x-cmd.io/marchat.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,16 @@ x install marchat
 - **最新版本**: `v1.3.6` (2026-09-01)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-09-01T13:21:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [marchat-v1.3.6-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-amd64.zip) | 26.0 MiB | `native/darwin/x64` |
+| [marchat-v1.3.6-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-arm64.zip) | 24.8 MiB | `native/darwin/arm64` |
+| [marchat-v1.3.6-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-amd64.zip) | 24.9 MiB | `native/linux/x64` |
+| [marchat-v1.3.6-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-arm64.zip) | 23.3 MiB | `native/linux/arm64` |
+| [marchat-v1.3.6-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-windows-amd64.zip) | 25.6 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -62,4 +71,4 @@ marchat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:42:23Z._
