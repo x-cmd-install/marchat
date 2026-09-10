@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 26161848,
       "digest": "sha256:a7e014e8ef161cea306c2cd2b08ab1a0265c852d10db0f1753f33963dde18ddf",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-09-01T13:22:48Z",
       "updated_at": "2026-09-01T13:22:49Z",
       "browser_download_url": "https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-amd64.zip"
