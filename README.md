@@ -48,12 +48,12 @@ Total: **37,126** lines of code across **166** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 8 | 2 | 1 | 0 | 17 |
-| last60d | 2026-07-12 | 6 | 15 | 2 | 6 | 0 | 50 |
-| 90d | 2026-06-12 | 7 | 19 | 2 | 7 | 0 | 86 |
-| last180d | 2026-03-14 | 19 | 28 | 2 | 7 | 0 | 212 |
-| 360d | 2025-09-15 | 40 | 33 | 2 | 15 | 0 | 354 |
-| last720d | 2024-09-20 | 66 | 45 | 2 | 39 | 0 | 774 |
+| 30d | 2026-08-12 | 2 | 8 | 2 | 1 | 0 | 17 |
+| last60d | 2026-07-13 | 6 | 15 | 2 | 6 | 0 | 50 |
+| 90d | 2026-06-13 | 7 | 19 | 2 | 7 | 0 | 86 |
+| last180d | 2026-03-15 | 19 | 28 | 2 | 7 | 0 | 212 |
+| 360d | 2025-09-16 | 40 | 33 | 2 | 15 | 0 | 354 |
+| last720d | 2024-09-21 | 66 | 45 | 2 | 39 | 0 | 774 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:54:43Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:04:12Z._
