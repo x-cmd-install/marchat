@@ -14,12 +14,12 @@ x install marchat
 
 ## Code insight
 
-Total: **37,126** lines of code across **166** files in the top 5 languages.
+Total: **37,172** lines of code across **169** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 35,290 | 2,655 | 5,225 | 116 |
-| Yaml | 495 | 41 | 3 | 32 |
+| Yaml | 541 | 44 | 3 | 35 |
 | Sh | 471 | 61 | 80 | 6 |
 | PowerShell | 372 | 54 | 87 | 7 |
 | Json | 231 | 0 | 1 | 5 |
@@ -32,8 +32,8 @@ Total: **37,126** lines of code across **166** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.3.6` (2026-09-01)
-- **Last commit**: 2026-09-01
+- **Latest**: `v1.3.7` (2026-09-12)
+- **Last commit**: 2026-09-12
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,32 +42,32 @@ Total: **37,126** lines of code across **166** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 774
+- **Releases**: 67 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 776
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 8 | 2 | 1 | 0 | 17 |
-| last60d | 2026-07-14 | 6 | 15 | 2 | 6 | 0 | 50 |
-| 90d | 2026-06-14 | 7 | 19 | 2 | 7 | 0 | 86 |
-| last180d | 2026-03-16 | 19 | 27 | 2 | 7 | 0 | 212 |
-| 360d | 2025-09-17 | 39 | 33 | 2 | 15 | 0 | 354 |
-| last720d | 2024-09-22 | 66 | 45 | 2 | 39 | 0 | 774 |
+| 30d | 2026-08-14 | 3 | 8 | 0 | 1 | 0 | 9 |
+| last60d | 2026-07-15 | 6 | 15 | 0 | 6 | 0 | 49 |
+| 90d | 2026-06-15 | 8 | 19 | 0 | 7 | 0 | 65 |
+| last180d | 2026-03-17 | 20 | 27 | 0 | 7 | 0 | 210 |
+| 360d | 2025-09-18 | 36 | 33 | 0 | 15 | 0 | 346 |
+| last720d | 2024-09-23 | 67 | 45 | 0 | 39 | 0 | 776 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [marchat-v1.3.6-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-amd64.zip) | 26.0 MiB | `native/darwin/x64` |
-| [marchat-v1.3.6-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-arm64.zip) | 24.8 MiB | `native/darwin/arm64` |
-| [marchat-v1.3.6-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-amd64.zip) | 24.9 MiB | `native/linux/x64` |
-| [marchat-v1.3.6-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-arm64.zip) | 23.3 MiB | `native/linux/arm64` |
-| [marchat-v1.3.6-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-windows-amd64.zip) | 25.6 MiB | `native/win/x64` |
+| [marchat-v1.3.7-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-darwin-amd64.zip) | 26.3 MiB | `native/darwin/x64` |
+| [marchat-v1.3.7-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-darwin-arm64.zip) | 25.1 MiB | `native/darwin/arm64` |
+| [marchat-v1.3.7-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-amd64.zip) | 25.3 MiB | `native/linux/x64` |
+| [marchat-v1.3.7-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-arm64.zip) | 23.5 MiB | `native/linux/arm64` |
+| [marchat-v1.3.7-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-windows-amd64.zip) | 25.9 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **2** distros on [repology.org](https://repology.org/project/marchat). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **2** distros on [repology.org](https://repology.org/project/marchat). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:45:35Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:12:21Z._

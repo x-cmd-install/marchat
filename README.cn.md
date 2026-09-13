@@ -14,12 +14,12 @@ x install marchat
 
 ## 代码洞察
 
-合计: **37,126** 行代码（覆盖前 5 种语言、共 **166** 个文件）。
+合计: **37,172** 行代码（覆盖前 5 种语言、共 **169** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 35,290 | 2,655 | 5,225 | 116 |
-| Yaml | 495 | 41 | 3 | 32 |
+| Yaml | 541 | 44 | 3 | 35 |
 | Sh | 471 | 61 | 80 | 6 |
 | PowerShell | 372 | 54 | 87 | 7 |
 | Json | 231 | 0 | 1 | 5 |
@@ -32,8 +32,8 @@ x install marchat
 
 ## 发布
 
-- **最新版本**: `v1.3.6` (2026-09-01)
-- **最近提交**: 2026-09-01
+- **最新版本**: `v1.3.7` (2026-09-12)
+- **最近提交**: 2026-09-12
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -42,32 +42,32 @@ x install marchat
 
 ## 累计统计
 
-- **发布数**: 66 · **已合并 PR**: 45 · **开放 PR**: 2 · **已关闭 issue**: 39 · **开放 issue**: 0 · **提交数**: 774
+- **发布数**: 67 · **已合并 PR**: 45 · **开放 PR**: 0 · **已关闭 issue**: 39 · **开放 issue**: 0 · **提交数**: 776
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 8 | 2 | 1 | 0 | 17 |
-| last60d | 2026-07-14 | 6 | 15 | 2 | 6 | 0 | 50 |
-| 90d | 2026-06-14 | 7 | 19 | 2 | 7 | 0 | 86 |
-| last180d | 2026-03-16 | 19 | 27 | 2 | 7 | 0 | 212 |
-| 360d | 2025-09-17 | 39 | 33 | 2 | 15 | 0 | 354 |
-| last720d | 2024-09-22 | 66 | 45 | 2 | 39 | 0 | 774 |
+| 30d | 2026-08-14 | 3 | 8 | 0 | 1 | 0 | 9 |
+| last60d | 2026-07-15 | 6 | 15 | 0 | 6 | 0 | 49 |
+| 90d | 2026-06-15 | 8 | 19 | 0 | 7 | 0 | 65 |
+| last180d | 2026-03-17 | 20 | 27 | 0 | 7 | 0 | 210 |
+| 360d | 2025-09-18 | 36 | 33 | 0 | 15 | 0 | 346 |
+| last720d | 2024-09-23 | 67 | 45 | 0 | 39 | 0 | 776 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [marchat-v1.3.6-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-amd64.zip) | 26.0 MiB | `native/darwin/x64` |
-| [marchat-v1.3.6-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-darwin-arm64.zip) | 24.8 MiB | `native/darwin/arm64` |
-| [marchat-v1.3.6-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-amd64.zip) | 24.9 MiB | `native/linux/x64` |
-| [marchat-v1.3.6-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-linux-arm64.zip) | 23.3 MiB | `native/linux/arm64` |
-| [marchat-v1.3.6-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.6/marchat-v1.3.6-windows-amd64.zip) | 25.6 MiB | `native/win/x64` |
+| [marchat-v1.3.7-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-darwin-amd64.zip) | 26.3 MiB | `native/darwin/x64` |
+| [marchat-v1.3.7-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-darwin-arm64.zip) | 25.1 MiB | `native/darwin/arm64` |
+| [marchat-v1.3.7-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-amd64.zip) | 25.3 MiB | `native/linux/x64` |
+| [marchat-v1.3.7-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-arm64.zip) | 23.5 MiB | `native/linux/arm64` |
+| [marchat-v1.3.7-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-windows-amd64.zip) | 25.9 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/marchat) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/marchat) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ marchat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260912.yml` · 2026-09-12T04:45:35Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T05:12:22Z._
