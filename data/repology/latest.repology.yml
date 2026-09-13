@@ -2,8 +2,8 @@
   srcname: marchat-bin
   binname: marchat-bin
   visiblename: marchat-bin
-  version: 1.3.6
-  origversion: 1.3.6-1
+  version: 1.3.7
+  origversion: 1.3.7-1
   status: newest
   summary: Terminal chat with WebSockets (official release binaries)
   maintainers:
@@ -15,5 +15,5 @@
   visiblename: marchat (terminal chat)
   version: 1.3.6
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal chat with WebSockets, optional E2E encryption, and plugins
