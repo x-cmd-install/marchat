@@ -48,12 +48,12 @@ Total: **37,172** lines of code across **169** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 8 | 0 | 1 | 0 | 9 |
-| last60d | 2026-07-15 | 6 | 15 | 0 | 6 | 0 | 49 |
-| 90d | 2026-06-15 | 8 | 19 | 0 | 7 | 0 | 65 |
-| last180d | 2026-03-17 | 20 | 27 | 0 | 7 | 0 | 210 |
-| 360d | 2025-09-18 | 36 | 33 | 0 | 15 | 0 | 346 |
-| last720d | 2024-09-23 | 67 | 45 | 0 | 39 | 0 | 776 |
+| 30d | 2026-08-15 | 3 | 5 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-16 | 5 | 15 | 0 | 6 | 0 | 49 |
+| 90d | 2026-06-16 | 8 | 18 | 0 | 6 | 0 | 65 |
+| last180d | 2026-03-18 | 20 | 27 | 0 | 7 | 0 | 210 |
+| 360d | 2025-09-19 | 35 | 33 | 0 | 14 | 0 | 346 |
+| last720d | 2024-09-24 | 67 | 45 | 0 | 39 | 0 | 776 |
 
 ## Release assets
 
@@ -65,10 +65,6 @@ Total: **37,172** lines of code across **169** files in the top 5 languages.
 | [marchat-v1.3.7-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-arm64.zip) | 23.5 MiB | `native/linux/arm64` |
 | [marchat-v1.3.7-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-windows-amd64.zip) | 25.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/marchat). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `marchat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +74,4 @@ Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:12:21Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:10:23Z._
