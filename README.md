@@ -4,7 +4,7 @@
 
 Terminal chat for developers: Go WebSocket server + Bubble Tea TUI client, optional E2E, reactions, DMs, channels, plugins, files, code snippets, admin UI. Backends: SQLite, PostgreSQL, or MySQL. Self-hosted.
 
-![marchat](https://repo.x-cmd.io/marchat.svg)
+[![x-cmd/install — marchat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/marchat.svg)](https://x-cmd.com/install/marchat)
 
 ## Install
 
@@ -42,18 +42,18 @@ Total: **37,172** lines of code across **169** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 776
+- **Releases**: 67 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 776
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 4 | 0 | 0 | 0 | 9 |
-| last60d | 2026-07-20 | 5 | 14 | 0 | 6 | 0 | 49 |
-| 90d | 2026-06-20 | 8 | 18 | 0 | 6 | 0 | 65 |
-| last180d | 2026-03-22 | 19 | 27 | 0 | 7 | 0 | 210 |
-| 360d | 2025-09-23 | 35 | 32 | 0 | 14 | 0 | 346 |
-| last720d | 2024-09-28 | 67 | 45 | 0 | 39 | 0 | 776 |
+| 30d | 2026-08-21 | 2 | 4 | 2 | 0 | 0 | 8 |
+| last60d | 2026-07-22 | 5 | 14 | 2 | 6 | 0 | 47 |
+| 90d | 2026-06-22 | 8 | 18 | 2 | 6 | 0 | 64 |
+| last180d | 2026-03-24 | 19 | 26 | 2 | 7 | 0 | 201 |
+| 360d | 2025-09-25 | 35 | 32 | 2 | 14 | 0 | 329 |
+| last720d | 2024-09-30 | 67 | 45 | 2 | 39 | 0 | 776 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:56:30Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:06:29Z._
