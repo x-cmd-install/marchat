@@ -14,11 +14,11 @@ x install marchat
 
 ## Code insight
 
-Total: **37,172** lines of code across **169** files in the top 5 languages.
+Total: **37,710** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 35,290 | 2,655 | 5,225 | 116 |
+| Go | 35,828 | 2,675 | 5,282 | 121 |
 | Yaml | 541 | 44 | 3 | 35 |
 | Sh | 471 | 61 | 80 | 6 |
 | PowerShell | 372 | 54 | 87 | 7 |
@@ -33,7 +33,7 @@ Total: **37,172** lines of code across **169** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.7` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-21
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **37,172** lines of code across **169** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 776
+- **Releases**: 67 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 778
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 3 | 2 | 0 | 0 | 8 |
-| last60d | 2026-07-23 | 5 | 14 | 2 | 6 | 0 | 47 |
-| 90d | 2026-06-23 | 8 | 18 | 2 | 6 | 0 | 64 |
-| last180d | 2026-03-25 | 18 | 26 | 2 | 7 | 0 | 201 |
-| 360d | 2025-09-26 | 35 | 32 | 2 | 14 | 0 | 329 |
-| last720d | 2024-10-01 | 67 | 45 | 2 | 39 | 0 | 776 |
+| 30d | 2026-08-23 | 2 | 3 | 0 | 0 | 0 | 10 |
+| last60d | 2026-07-24 | 5 | 14 | 0 | 6 | 0 | 49 |
+| 90d | 2026-06-24 | 8 | 18 | 0 | 6 | 0 | 66 |
+| last180d | 2026-03-26 | 18 | 26 | 0 | 7 | 0 | 203 |
+| 360d | 2025-09-27 | 35 | 32 | 0 | 14 | 0 | 331 |
+| last720d | 2024-10-02 | 67 | 45 | 0 | 39 | 0 | 778 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:17:13Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:13:24Z._
