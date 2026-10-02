@@ -14,12 +14,12 @@ x install marchat
 
 ## Code insight
 
-Total: **37,710** lines of code across **174** files in the top 5 languages.
+Total: **37,756** lines of code across **177** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 35,828 | 2,675 | 5,282 | 121 |
-| Yaml | 541 | 44 | 3 | 35 |
+| Yaml | 587 | 47 | 3 | 38 |
 | Sh | 471 | 61 | 80 | 6 |
 | PowerShell | 372 | 54 | 87 | 7 |
 | Json | 231 | 0 | 1 | 5 |
@@ -32,8 +32,8 @@ Total: **37,710** lines of code across **174** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.3.7` (2026-09-12)
-- **Last commit**: 2026-09-21
+- **Latest**: `v1.3.8` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,28 +42,28 @@ Total: **37,710** lines of code across **174** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 778
+- **Releases**: 68 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 0 · **Commits**: 781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-02 | 5 | 12 | 0 | 6 | 0 | 35 |
-| 90d | 2026-07-03 | 8 | 17 | 0 | 6 | 0 | 63 |
-| last180d | 2026-04-04 | 15 | 24 | 0 | 7 | 0 | 167 |
-| 360d | 2025-10-06 | 34 | 32 | 0 | 13 | 0 | 297 |
-| last720d | 2024-10-11 | 67 | 45 | 0 | 39 | 0 | 778 |
+| 30d | 2026-09-02 | 2 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-08-03 | 6 | 12 | 0 | 5 | 0 | 38 |
+| 90d | 2026-07-04 | 9 | 15 | 0 | 6 | 0 | 66 |
+| last180d | 2026-04-05 | 16 | 24 | 0 | 7 | 0 | 170 |
+| 360d | 2025-10-07 | 34 | 32 | 0 | 12 | 0 | 300 |
+| last720d | 2024-10-12 | 68 | 45 | 0 | 39 | 0 | 781 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [marchat-v1.3.7-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-darwin-amd64.zip) | 26.3 MiB | `native/darwin/x64` |
-| [marchat-v1.3.7-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-darwin-arm64.zip) | 25.1 MiB | `native/darwin/arm64` |
-| [marchat-v1.3.7-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-amd64.zip) | 25.3 MiB | `native/linux/x64` |
-| [marchat-v1.3.7-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-linux-arm64.zip) | 23.5 MiB | `native/linux/arm64` |
-| [marchat-v1.3.7-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.7/marchat-v1.3.7-windows-amd64.zip) | 25.9 MiB | `native/win/x64` |
+| [marchat-v1.3.8-darwin-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-darwin-amd64.zip) | 26.3 MiB | `native/darwin/x64` |
+| [marchat-v1.3.8-darwin-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-darwin-arm64.zip) | 25.0 MiB | `native/darwin/arm64` |
+| [marchat-v1.3.8-linux-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-linux-amd64.zip) | 25.5 MiB | `native/linux/x64` |
+| [marchat-v1.3.8-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-linux-arm64.zip) | 23.7 MiB | `native/linux/arm64` |
+| [marchat-v1.3.8-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-windows-amd64.zip) | 25.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for marchat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:04:03Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:48:05Z._
