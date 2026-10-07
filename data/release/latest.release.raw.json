@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 26711339,
       "digest": "sha256:47c6f14b650880115ea090a25a36fd1b746ff227b85d1f2f834fc459638f60b1",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-10-01T17:49:58Z",
       "updated_at": "2026-10-01T17:50:01Z",
       "browser_download_url": "https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-linux-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 27166344,
       "digest": "sha256:8ae5df8f319adad1898841693a531e70ff1e7466c6767dae09e986e440ff521b",
-      "download_count": 26,
+      "download_count": 31,
       "created_at": "2026-10-01T17:49:57Z",
       "updated_at": "2026-10-01T17:50:01Z",
       "browser_download_url": "https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-windows-amd64.zip"
