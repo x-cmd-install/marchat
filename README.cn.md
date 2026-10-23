@@ -38,7 +38,7 @@ x install marchat
 
 ## 流行度
 
-- **Star**: 137 · **Fork**: 9 · **开放 issue**: 39 · **贡献者**: 5
+- **Star**: 138 · **Fork**: 9 · **开放 issue**: 39 · **贡献者**: 5
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install marchat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 5 | 0 | 0 | 3 |
-| last60d | 2026-08-23 | 3 | 3 | 5 | 0 | 0 | 13 |
-| 90d | 2026-07-24 | 6 | 14 | 5 | 6 | 0 | 52 |
-| last180d | 2026-04-25 | 11 | 23 | 5 | 7 | 0 | 114 |
-| 360d | 2025-10-27 | 23 | 32 | 5 | 11 | 0 | 249 |
-| last720d | 2024-11-01 | 68 | 45 | 5 | 39 | 0 | 781 |
+| 30d | 2026-09-23 | 1 | 0 | 5 | 0 | 0 | 3 |
+| last60d | 2026-08-24 | 3 | 3 | 5 | 0 | 0 | 13 |
+| 90d | 2026-07-25 | 6 | 13 | 5 | 6 | 0 | 52 |
+| last180d | 2026-04-26 | 11 | 23 | 5 | 7 | 0 | 114 |
+| 360d | 2025-10-28 | 23 | 32 | 5 | 11 | 0 | 249 |
+| last720d | 2024-11-02 | 68 | 45 | 5 | 39 | 0 | 781 |
 
 ## Release 资产
 
@@ -65,6 +65,10 @@ x install marchat
 | [marchat-v1.3.8-linux-arm64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-linux-arm64.zip) | 23.7 MiB | `native/linux/arm64` |
 | [marchat-v1.3.8-windows-amd64.zip](https://github.com/Cod-e-Codes/marchat/releases/download/v1.3.8/marchat-v1.3.8-windows-amd64.zip) | 25.9 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/marchat) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 marchat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `marchat` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +78,4 @@ marchat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:49:58Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:52:02Z._
